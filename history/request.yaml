@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE01ISSP-SP001-08-FLORTJ000-telemetered-flort_sample
-last_request: '2021-08-01T01:12:56.651388Z'
+last_request: '2021-11-30T23:08:48.849545Z'
 response: https://raw.githubusercontent.com/ooi-data/CE01ISSP-SP001-08-FLORTJ000-telemetered-flort_sample/main/history/response.json
-status: failed
+status: discontinued
